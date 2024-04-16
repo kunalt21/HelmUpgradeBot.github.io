@@ -1,0 +1,1 @@
+# HelmUpgradeBot.github.io
